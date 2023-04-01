@@ -88,7 +88,10 @@ button:hover {
         size: letter;
         margin: 0.25in;
     }
-    body { margin: 0 auto; }
+    body {
+        margin: 0 auto;
+        background-color: white;
+    }
     table { page-break-inside: avoid; }
     .no-print { display: none; }
     .printable {
